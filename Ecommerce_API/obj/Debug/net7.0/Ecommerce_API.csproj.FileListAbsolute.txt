@@ -1,0 +1,208 @@
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.csproj.AssemblyReference.cache
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.AssemblyInfoInputs.cache
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.AssemblyInfo.cs
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.csproj.CoreCompileInputs.cache
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\appsettings.Development.json
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\appsettings.json
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Ecommerce_API.exe
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Ecommerce_API.deps.json
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Ecommerce_API.runtimeconfig.json
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Ecommerce_API.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Ecommerce_API.pdb
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Azure.Core.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Azure.Identity.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Humanizer.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Ecommerce.DataProvider.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Ecommerce.DataProvider.pdb
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\staticwebassets\msbuild.Ecommerce_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Ecommerce_API.props
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce_API.props
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ecommerce_API.props
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\scopedcss\bundle\Ecommerce_API.styles.css
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.csproj.CopyComplete
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\refint\Ecommerce_API.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.pdb
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.genruntimeconfig.cache
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\ref\Ecommerce_API.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\MediatR.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Ecommerce.Handler.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Ecommerce.Query.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Ecommerce.Handler.pdb
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Ecommerce.Query.pdb
+D:\Sami\Ecommerce\API\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Ecommerce.command.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Ecommerce.command.pdb
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Serilog.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Serilog.Extensions.Logging.File.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\AutoMapper.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Ecommerce.Mapper.dll
+D:\Sami\Ecommerce\API\Ecommerce_API\bin\Debug\net7.0\Ecommerce.Mapper.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\appsettings.Development.json
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\appsettings.json
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Ecommerce_API.exe
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Ecommerce_API.deps.json
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Ecommerce_API.runtimeconfig.json
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Ecommerce_API.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Ecommerce_API.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\AutoMapper.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Azure.Core.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Azure.Identity.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Humanizer.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\MediatR.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Serilog.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Serilog.Extensions.Logging.File.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Ecommerce.command.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Ecommerce.DataProvider.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Ecommerce.Handler.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Ecommerce.Mapper.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Ecommerce.Query.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Ecommerce.DataProvider.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Ecommerce.Handler.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Ecommerce.command.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Ecommerce.Mapper.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\bin\Debug\net7.0\Ecommerce.Query.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.csproj.AssemblyReference.cache
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.AssemblyInfoInputs.cache
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.AssemblyInfo.cs
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.csproj.CoreCompileInputs.cache
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\staticwebassets\msbuild.Ecommerce_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Ecommerce_API.props
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce_API.props
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ecommerce_API.props
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\scopedcss\bundle\Ecommerce_API.styles.css
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.csproj.CopyComplete
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\refint\Ecommerce_API.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\Ecommerce_API.genruntimeconfig.cache
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce_API\obj\Debug\net7.0\ref\Ecommerce_API.dll

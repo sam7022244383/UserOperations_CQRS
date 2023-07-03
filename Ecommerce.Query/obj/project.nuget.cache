@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8GgBOWrQWCo1xJKFrKmueElwSyndUntMM5eVVXUqg7B5+2YBW/PEnT0wocIkWJbv9XQmMVl/xhjgd5MU6VfNkg==",
+  "success": true,
+  "projectFilePath": "D:\\Sami\\Ecommerce\\Git FOlder\\UserOperations_CQRS\\Ecommerce.Query\\Ecommerce.Query.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SamiullaMujawar\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\SamiullaMujawar\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\SamiullaMujawar\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\SamiullaMujawar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,24 @@
+D:\Sami\Ecommerce\API\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.deps.json
+D:\Sami\Ecommerce\API\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\Sami\Ecommerce\API\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\Sami\Ecommerce\API\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.csproj.AssemblyReference.cache
+D:\Sami\Ecommerce\API\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sami\Ecommerce\API\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+D:\Sami\Ecommerce\API\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.AssemblyInfo.cs
+D:\Sami\Ecommerce\API\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+D:\Sami\Ecommerce\API\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.dll
+D:\Sami\Ecommerce\API\Ecommerce.Domain\obj\Debug\net7.0\refint\Ecommerce.Domain.dll
+D:\Sami\Ecommerce\API\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.pdb
+D:\Sami\Ecommerce\API\Ecommerce.Domain\obj\Debug\net7.0\ref\Ecommerce.Domain.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.deps.json
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.csproj.AssemblyReference.cache
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.AssemblyInfo.cs
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Domain\obj\Debug\net7.0\refint\Ecommerce.Domain.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Domain\obj\Debug\net7.0\ref\Ecommerce.Domain.dll

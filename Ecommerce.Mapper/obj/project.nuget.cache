@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kM5P2Z9eoHStJy0G2PUduTpsMDSE0z1keMT5nAWM/Jx5yO8K2sMPrlEQZQ5Qta2IFoUt37aAHswRx0/qVjJpXg==",
+  "success": true,
+  "projectFilePath": "D:\\Sami\\Ecommerce\\Git FOlder\\UserOperations_CQRS\\Ecommerce.Mapper\\Ecommerce.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SamiullaMujawar\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\SamiullaMujawar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\SamiullaMujawar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\SamiullaMujawar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\SamiullaMujawar\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\SamiullaMujawar\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\SamiullaMujawar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

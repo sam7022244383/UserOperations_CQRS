@@ -1,0 +1,46 @@
+D:\Sami\Ecommerce\API\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Handler.deps.json
+D:\Sami\Ecommerce\API\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Handler.dll
+D:\Sami\Ecommerce\API\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Handler.pdb
+D:\Sami\Ecommerce\API\Ecommerce.Handler\obj\Debug\net7.0\Ecommerce.Handler.csproj.AssemblyReference.cache
+D:\Sami\Ecommerce\API\Ecommerce.Handler\obj\Debug\net7.0\Ecommerce.Handler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sami\Ecommerce\API\Ecommerce.Handler\obj\Debug\net7.0\Ecommerce.Handler.AssemblyInfoInputs.cache
+D:\Sami\Ecommerce\API\Ecommerce.Handler\obj\Debug\net7.0\Ecommerce.Handler.AssemblyInfo.cs
+D:\Sami\Ecommerce\API\Ecommerce.Handler\obj\Debug\net7.0\Ecommerce.Handler.csproj.CoreCompileInputs.cache
+D:\Sami\Ecommerce\API\Ecommerce.Handler\obj\Debug\net7.0\Ecommerce.Handler.dll
+D:\Sami\Ecommerce\API\Ecommerce.Handler\obj\Debug\net7.0\refint\Ecommerce.Handler.dll
+D:\Sami\Ecommerce\API\Ecommerce.Handler\obj\Debug\net7.0\Ecommerce.Handler.pdb
+D:\Sami\Ecommerce\API\Ecommerce.Handler\obj\Debug\net7.0\ref\Ecommerce.Handler.dll
+D:\Sami\Ecommerce\API\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.DataProvider.dll
+D:\Sami\Ecommerce\API\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\Sami\Ecommerce\API\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Query.dll
+D:\Sami\Ecommerce\API\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.DataProvider.pdb
+D:\Sami\Ecommerce\API\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Query.pdb
+D:\Sami\Ecommerce\API\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\Sami\Ecommerce\API\Ecommerce.Handler\obj\Debug\net7.0\Ecommerce.Handler.csproj.CopyComplete
+D:\Sami\Ecommerce\API\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.command.dll
+D:\Sami\Ecommerce\API\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.command.pdb
+D:\Sami\Ecommerce\API\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Mapper.dll
+D:\Sami\Ecommerce\API\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Mapper.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Handler.deps.json
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Handler.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Handler.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.command.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.DataProvider.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Mapper.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Query.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.command.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.DataProvider.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Mapper.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Query.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\obj\Debug\net7.0\Ecommerce.Handler.csproj.AssemblyReference.cache
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\obj\Debug\net7.0\Ecommerce.Handler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\obj\Debug\net7.0\Ecommerce.Handler.AssemblyInfoInputs.cache
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\obj\Debug\net7.0\Ecommerce.Handler.AssemblyInfo.cs
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\obj\Debug\net7.0\Ecommerce.Handler.csproj.CoreCompileInputs.cache
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\obj\Debug\net7.0\Ecommerce.Handler.csproj.CopyComplete
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\obj\Debug\net7.0\Ecommerce.Handler.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\obj\Debug\net7.0\refint\Ecommerce.Handler.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\obj\Debug\net7.0\Ecommerce.Handler.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Handler\obj\Debug\net7.0\ref\Ecommerce.Handler.dll

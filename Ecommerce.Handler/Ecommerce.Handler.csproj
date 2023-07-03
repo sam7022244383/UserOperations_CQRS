@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="MediatR" Version="11.1.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ecommerce.command\Ecommerce.command.csproj" />
+    <ProjectReference Include="..\Ecommerce.DataProvider\Ecommerce.DataProvider.csproj" />
+    <ProjectReference Include="..\Ecommerce.Mapper\Ecommerce.Mapper.csproj" />
+    <ProjectReference Include="..\Ecommerce.Query\Ecommerce.Query.csproj" />
+  </ItemGroup>
+
+</Project>

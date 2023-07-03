@@ -1,0 +1,30 @@
+D:\Sami\Ecommerce\API\Ecommerce.DataProvider\bin\Debug\net7.0\Ecommerce.DataProvider.deps.json
+D:\Sami\Ecommerce\API\Ecommerce.DataProvider\bin\Debug\net7.0\Ecommerce.DataProvider.dll
+D:\Sami\Ecommerce\API\Ecommerce.DataProvider\bin\Debug\net7.0\Ecommerce.DataProvider.pdb
+D:\Sami\Ecommerce\API\Ecommerce.DataProvider\obj\Debug\net7.0\Ecommerce.DataProvider.csproj.AssemblyReference.cache
+D:\Sami\Ecommerce\API\Ecommerce.DataProvider\obj\Debug\net7.0\Ecommerce.DataProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sami\Ecommerce\API\Ecommerce.DataProvider\obj\Debug\net7.0\Ecommerce.DataProvider.AssemblyInfoInputs.cache
+D:\Sami\Ecommerce\API\Ecommerce.DataProvider\obj\Debug\net7.0\Ecommerce.DataProvider.AssemblyInfo.cs
+D:\Sami\Ecommerce\API\Ecommerce.DataProvider\obj\Debug\net7.0\Ecommerce.DataProvider.csproj.CoreCompileInputs.cache
+D:\Sami\Ecommerce\API\Ecommerce.DataProvider\obj\Debug\net7.0\Ecommerce.DataProvider.dll
+D:\Sami\Ecommerce\API\Ecommerce.DataProvider\obj\Debug\net7.0\refint\Ecommerce.DataProvider.dll
+D:\Sami\Ecommerce\API\Ecommerce.DataProvider\obj\Debug\net7.0\Ecommerce.DataProvider.pdb
+D:\Sami\Ecommerce\API\Ecommerce.DataProvider\obj\Debug\net7.0\ref\Ecommerce.DataProvider.dll
+D:\Sami\Ecommerce\API\Ecommerce.DataProvider\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\Sami\Ecommerce\API\Ecommerce.DataProvider\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\Sami\Ecommerce\API\Ecommerce.DataProvider\obj\Debug\net7.0\Ecommerce.DataProvider.csproj.CopyComplete
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.DataProvider\bin\Debug\net7.0\Ecommerce.DataProvider.deps.json
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.DataProvider\bin\Debug\net7.0\Ecommerce.DataProvider.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.DataProvider\bin\Debug\net7.0\Ecommerce.DataProvider.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.DataProvider\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.DataProvider\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.DataProvider\obj\Debug\net7.0\Ecommerce.DataProvider.csproj.AssemblyReference.cache
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.DataProvider\obj\Debug\net7.0\Ecommerce.DataProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.DataProvider\obj\Debug\net7.0\Ecommerce.DataProvider.AssemblyInfoInputs.cache
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.DataProvider\obj\Debug\net7.0\Ecommerce.DataProvider.AssemblyInfo.cs
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.DataProvider\obj\Debug\net7.0\Ecommerce.DataProvider.csproj.CoreCompileInputs.cache
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.DataProvider\obj\Debug\net7.0\Ecommerce.DataProvider.csproj.CopyComplete
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.DataProvider\obj\Debug\net7.0\Ecommerce.DataProvider.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.DataProvider\obj\Debug\net7.0\refint\Ecommerce.DataProvider.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.DataProvider\obj\Debug\net7.0\Ecommerce.DataProvider.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.DataProvider\obj\Debug\net7.0\ref\Ecommerce.DataProvider.dll

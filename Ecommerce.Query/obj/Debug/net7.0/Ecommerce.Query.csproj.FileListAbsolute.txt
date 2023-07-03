@@ -1,0 +1,30 @@
+D:\Sami\Ecommerce\API\Ecommerce.Query\bin\Debug\net7.0\Ecommerce.Query.deps.json
+D:\Sami\Ecommerce\API\Ecommerce.Query\bin\Debug\net7.0\Ecommerce.Query.dll
+D:\Sami\Ecommerce\API\Ecommerce.Query\bin\Debug\net7.0\Ecommerce.Query.pdb
+D:\Sami\Ecommerce\API\Ecommerce.Query\obj\Debug\net7.0\Ecommerce.Query.csproj.AssemblyReference.cache
+D:\Sami\Ecommerce\API\Ecommerce.Query\obj\Debug\net7.0\Ecommerce.Query.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sami\Ecommerce\API\Ecommerce.Query\obj\Debug\net7.0\Ecommerce.Query.AssemblyInfoInputs.cache
+D:\Sami\Ecommerce\API\Ecommerce.Query\obj\Debug\net7.0\Ecommerce.Query.AssemblyInfo.cs
+D:\Sami\Ecommerce\API\Ecommerce.Query\obj\Debug\net7.0\Ecommerce.Query.csproj.CoreCompileInputs.cache
+D:\Sami\Ecommerce\API\Ecommerce.Query\obj\Debug\net7.0\Ecommerce.Query.dll
+D:\Sami\Ecommerce\API\Ecommerce.Query\obj\Debug\net7.0\refint\Ecommerce.Query.dll
+D:\Sami\Ecommerce\API\Ecommerce.Query\obj\Debug\net7.0\Ecommerce.Query.pdb
+D:\Sami\Ecommerce\API\Ecommerce.Query\obj\Debug\net7.0\ref\Ecommerce.Query.dll
+D:\Sami\Ecommerce\API\Ecommerce.Query\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\Sami\Ecommerce\API\Ecommerce.Query\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\Sami\Ecommerce\API\Ecommerce.Query\obj\Debug\net7.0\Ecommerce.Query.csproj.CopyComplete
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Query\bin\Debug\net7.0\Ecommerce.Query.deps.json
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Query\bin\Debug\net7.0\Ecommerce.Query.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Query\bin\Debug\net7.0\Ecommerce.Query.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Query\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Query\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Query\obj\Debug\net7.0\Ecommerce.Query.csproj.AssemblyReference.cache
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Query\obj\Debug\net7.0\Ecommerce.Query.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Query\obj\Debug\net7.0\Ecommerce.Query.AssemblyInfoInputs.cache
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Query\obj\Debug\net7.0\Ecommerce.Query.AssemblyInfo.cs
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Query\obj\Debug\net7.0\Ecommerce.Query.csproj.CoreCompileInputs.cache
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Query\obj\Debug\net7.0\Ecommerce.Query.csproj.CopyComplete
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Query\obj\Debug\net7.0\Ecommerce.Query.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Query\obj\Debug\net7.0\refint\Ecommerce.Query.dll
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Query\obj\Debug\net7.0\Ecommerce.Query.pdb
+D:\Sami\Ecommerce\Git FOlder\UserOperations_CQRS\Ecommerce.Query\obj\Debug\net7.0\ref\Ecommerce.Query.dll
